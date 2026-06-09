@@ -1,4 +1,4 @@
-# 
+# 原生 7-Zip 插件 Mac OS版 | 轻量 7-Zip 插件 PC Windows版。集成 系统诊断 和 Windows调优，跨平台性能最大化。
 
 
 
